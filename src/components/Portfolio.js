@@ -15,7 +15,7 @@ const Portfolio = () => {
 
                 <div className="container portfolio-container">
                     <div className="columns is-flex" style={{ flexWrap: 'wrap' }}>
-                        <div className="column is-5" style={{ margin: '25px' }}>
+                        <div className="column is-5">
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
