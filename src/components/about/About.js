@@ -10,11 +10,11 @@ const About = () => {
 
                     
                 <div className="container has-text-centered">
-                    <p>I'm an extremely motivated web developer and I'm looking for an exciting new opportunity!</p>
+                    <p>I'm an extremely motivated web developer with 10+ years as a Systems Admin and I'm looking for an exciting new opportunity!</p>
 
-                    {/* <p></p> */}
+                    <p></p>
 
-                    {/* <p>My skills are not limited to my professional experience either. I have been a web sponge, since the old AOL 3.0 days. My knowledge goes very deep with the web and its standards, protocols, and languages. While my main focus at the moment is learning Javascript, I also dabble in other languages for fun. I've taken and completed nearly every Python-related MOOC on edX and Coursera. I'm currently enrolled in Lambda School's Full Stack Web Development program.</p> */}
+                    <p>My skills are not limited to my professional experience. I have been a web sponge, since the old AOL 3.0 days. I had Angelfire/GeoCities pages, along with my own BBS at one point. My knowledge goes very deep with the web and its standards, protocols, and languages. While my main focus at the moment is Javascript, I also dabble in other languages for fun. I've taken and completed nearly every Python-related MOOC on edX and Coursera. I'm currently set to graduate Lambda School's Full Stack Web Development program in two months.</p>
                 </div>
             </div>
 
