@@ -40,7 +40,7 @@ const Portfolio = () => {
                                 </footer>
                             </div>
                         </div>
-                        <div className="column is-5">
+                        <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
@@ -64,7 +64,7 @@ const Portfolio = () => {
                                 </footer>
                             </div>
                         </div>
-                        <div className="column is-5">
+                        <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
@@ -88,7 +88,7 @@ const Portfolio = () => {
                                 </footer>
                             </div>
                         </div>
-                        <div className="column is-5">
+                        <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
@@ -112,7 +112,7 @@ const Portfolio = () => {
                                 </footer>
                             </div>
                         </div>
-                        <div className="column is-5">
+                        <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
@@ -136,7 +136,7 @@ const Portfolio = () => {
                                 </footer>
                             </div>
                         </div>
-                        <div className="column is-5">
+                        <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
