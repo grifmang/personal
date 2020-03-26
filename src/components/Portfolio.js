@@ -14,7 +14,56 @@ const Portfolio = () => {
                 <br />
 
                 <div className="container portfolio-container">
-                    <div className="columns is-flex" style={{ flexWrap: 'wrap' }}>
+                    <div className="columns is-flex" style={{ flexWrap: 'wrap', margin: 'auto' }}>
+                    <div className="column is-5">
+                            <div className="card">
+                                <header className="card-header">
+                                    <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
+                                        <span>Story Squad BackEnd</span>
+                                        <span className="is-pulled-right">
+                                            <span className="tag is-default">TypeORM</span>
+                                            <span className="tag is-default">Node</span>
+                                            <span className="tag is-default">Express</span>
+                                            <span className="tag is-default">Python</span>
+                                        </span>
+                                    </p>
+                                </header>
+                                <div className="card-content">
+                                    <figure className="image">
+                                    <img src={require('../images/ss-be.png')} alt="story squad backend" />
+                                    </figure>
+                                </div>
+                                <footer className="card-footer">
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://story-squad.netlify.com/" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/Lambda-School-Labs/story-squad-be" className="card-footer-item">Source
+                                    Code</a>
+                                </footer>
+                            </div>
+                        </div>
+                        <div className="column is-5">
+                            <div className="card">
+                                <header className="card-header">
+                                    <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
+                                        <span>Story Squad FrontEnd</span>
+                                        <span className="is-pulled-right">
+                                            <span className="tag is-default">React</span>
+                                            <span className="tag is-default">Typescript</span>
+                                            <span className="tag is-default">Material UI</span>
+                                        </span>
+                                    </p>
+                                </header>
+                                <div className="card-content">
+                                    <figure className="image">
+                                    <img src={require('../images/ss-fe.png')} alt="Curio screen shot" />
+                                    </figure>
+                                </div>
+                                <footer className="card-footer">
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://story-squad.netlify.com/" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/Lambda-School-Labs/story-squad-fe" className="card-footer-item">Source
+                                    Code</a>
+                                </footer>
+                            </div>
+                        </div>
                         <div className="column is-5">
                             <div className="card">
                                 <header className="card-header">
