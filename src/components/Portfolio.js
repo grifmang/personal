@@ -14,8 +14,8 @@ const Portfolio = () => {
                 <br />
 
                 <div className="container portfolio-container">
-                    <div className="columns is-flex" style={{ flexWrap: 'wrap', margin: 'auto' }}>
-                    <div className="column is-5">
+                    <div className="columns is-flex" style={{ flexWrap: 'wrap' }}>
+                    <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
