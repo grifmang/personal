@@ -20,7 +20,7 @@ const Header = () => {
                         {/* <a href="#" className="button is-link">CodeTrace</a> */}
                         <a style={{ margin: '5px' }} href="https://drive.google.com/file/d/1QIK2Hdi5JcCw-TQIX4w2CYYmqiDLPgIH/view?usp=sharing" className="button is-link">
                             <span className="icon">
-                            <i className="fas fa-file-alt"></i>
+                            <i className="fas fa-file-alt slide"></i>
                             </span>
                             <span>Download Resume</span>
                         </a>
