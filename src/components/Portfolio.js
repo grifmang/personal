@@ -106,7 +106,7 @@ const Portfolio = () => {
                                     </figure>
                                 </div>
                                 <footer className="card-footer">
-                                    <a href="https://github.com/grifmang/Book-Reviews" className="card-footer-item">Preview</a>
+                                    <a href="https://book-reviews-grif.herokuapp.com/" className="card-footer-item">Preview</a>
                                     <a href="https://github.com/grifmang/Book-Reviews" className="card-footer-item">Source
                                     Code</a>
                                 </footer>
