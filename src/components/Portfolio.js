@@ -49,6 +49,7 @@ const Portfolio = () => {
                                             <span className="tag is-default">React</span>
                                             <span className="tag is-default">Node</span>
                                             <span className="tag is-default">Express</span>
+                                            <span className="tag is-default">Python</span>
                                         </span>
                                     </p>
                                 </header>
