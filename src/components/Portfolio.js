@@ -15,6 +15,55 @@ const Portfolio = () => {
 
                 <div className="container portfolio-container">
                     <div className="columns is-flex" style={{ flexWrap: 'wrap' }}>
+                        <div className="column is-5" style={{ margin: 'auto' }}>
+                            <div className="card">
+                                <header className="card-header">
+                                    <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
+                                        <span>Tiger King Chronicles</span>
+                                        <span className="is-pulled-right">
+                                            <span className="tag is-default">Flask</span>
+                                            <span className="tag is-default">HTML/CSS</span>
+                                            <span className="tag is-default">JavaScript</span>
+                                            <span className="tag is-default">Canvas</span>
+                                        </span>
+                                    </p>
+                                </header>
+                                <div className="card-content">
+                                    <figure className="image">
+                                    <img src={require('../images/tigerking.png')} alt="tiger king chronicles" />
+                                    </figure>
+                                </div>
+                                <footer className="card-footer">
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://tigerkingchronicles.herokuapp.com/api/game" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/Final-Lumb-IV-Legend-of-the-Lost-Lumb/Backend" className="card-footer-item">Source
+                                    Code</a>
+                                </footer>
+                            </div>
+                        </div>
+                        <div className="column is-5" style={{ margin: 'auto' }}>
+                            <div className="card">
+                                <header className="card-header">
+                                    <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
+                                        <span>Story Squad Clone</span>
+                                        <span className="is-pulled-right">
+                                            <span className="tag is-default">React</span>
+                                            <span className="tag is-default">Node</span>
+                                            <span className="tag is-default">Express</span>
+                                        </span>
+                                    </p>
+                                </header>
+                                <div className="card-content">
+                                    <figure className="image">
+                                    <img src={require('../images/ss-mvp.png')} alt="story squad mvp" />
+                                    </figure>
+                                </div>
+                                <footer className="card-footer">
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">Source
+                                    Code</a>
+                                </footer>
+                            </div>
+                        </div>
                     <div className="column is-5" style={{ margin: 'auto' }}>
                             <div className="card">
                                 <header className="card-header">
