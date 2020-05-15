@@ -23,12 +23,12 @@ const Nav = () => {
                         </span>
                         <span>About</span>
                     </a>
-                    <a className="navbar-item" href="#contact">
+                    {/* <a className="navbar-item" href="#contact">
                         <span className="icon">
                             <i className="fas fa-file-alt"></i>
                         </span>
                         <span>Resume</span>
-                    </a>
+                    </a> */}
                     <a className="navbar-item" href="#portfolio">
                         <span className="icon">
                             <i className="fas fa-th-list"></i>
