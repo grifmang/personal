@@ -59,7 +59,7 @@ const Portfolio = () => {
                                     </figure>
                                 </div>
                                 <footer className="card-footer">
-                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">In Development</a>
                                     <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">Source
                                     Code</a>
                                 </footer>
@@ -84,7 +84,7 @@ const Portfolio = () => {
                                     </figure>
                                 </div>
                                 <footer className="card-footer">
-                                    <a target="_blank" rel="noopener noreferrer"  href="https://story-squad.netlify.com/" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://master.d37ier1k83jxk6.amplifyapp.com/" className="card-footer-item">Preview</a>
                                     <a target="_blank" rel="noopener noreferrer"  href="https://github.com/Lambda-School-Labs/story-squad-be" className="card-footer-item">Source
                                     Code</a>
                                 </footer>
@@ -108,7 +108,7 @@ const Portfolio = () => {
                                     </figure>
                                 </div>
                                 <footer className="card-footer">
-                                    <a target="_blank" rel="noopener noreferrer"  href="https://story-squad.netlify.com/" className="card-footer-item">Preview</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://master.d37ier1k83jxk6.amplifyapp.com/" className="card-footer-item">Preview</a>
                                     <a target="_blank" rel="noopener noreferrer"  href="https://github.com/Lambda-School-Labs/story-squad-fe" className="card-footer-item">Source
                                     Code</a>
                                 </footer>
