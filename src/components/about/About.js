@@ -30,7 +30,7 @@ const About = () => {
                             <div className="media-content">
                                 <div className="content">
                                     <p>
-                                    <strong>JavaScript:</strong>
+                                    <strong>JavaScript</strong>
                                     <br />
                                     <progress className="progress is-primary" value="80" max="100"></progress>
                                     </p>
@@ -42,7 +42,7 @@ const About = () => {
                             <div className="media-content">
                                 <div className="content">
                                     <p>
-                                    <strong>React.js:</strong>
+                                    <strong>React.js</strong>
                                     <br />
                                     <progress className="progress is-primary" value="80" max="100"></progress>
                                     </p>
@@ -54,7 +54,7 @@ const About = () => {
                             <div className="media-content">
                             <div className="content">
                                 <p>
-                                <strong>Node.js:</strong>
+                                <strong>Node.js</strong>
                                 <br />
                                 <progress className="progress is-primary" value="80" max="100"></progress>
                                 </p>
