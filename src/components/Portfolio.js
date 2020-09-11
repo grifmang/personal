@@ -44,7 +44,7 @@ const Portfolio = () => {
                             <div className="card">
                                 <header className="card-header">
                                     <p className="card-header-title is-flex" style={{ flexDirection: 'column' }}>
-                                        <span>Story Squad Clone</span>
+                                        <span>Story Squad Daily Story Contest</span>
                                         <span className="is-pulled-right">
                                             <span className="tag is-default">React</span>
                                             <span className="tag is-default">Node</span>
@@ -55,11 +55,11 @@ const Portfolio = () => {
                                 </header>
                                 <div className="card-content">
                                     <figure className="image">
-                                    <img src={require('../images/ss-mvp.png')} alt="story squad mvp" />
+                                    <img src={require('../images/ss-mvp.png')} alt="story squad daily story contest" />
                                     </figure>
                                 </div>
                                 <footer className="card-footer">
-                                    <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">In Development</a>
+                                    <a target="_blank" rel="noopener noreferrer"  href="https://contest.storysquad.app/" className="card-footer-item">BETA</a>
                                     <a target="_blank" rel="noopener noreferrer"  href="https://github.com/ss-mvp" className="card-footer-item">Source
                                     Code</a>
                                 </footer>
