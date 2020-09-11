@@ -1,32 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const Contact = () => {
-
-    const [contactEmail, setContactEmail] = useState({
-        name: '',
-        email: '',
-        message: ''
-    })
-
-    const handleChanges = e => {
-        setContactEmail({
-            ...contactEmail,
-            [e.target.name]: e.target.value
-        })
-    }
-
-    const handleSubmit = e => {
-        e.preventDefault();
-        window.Email.send({
-            SecureToken : "62753871-bc53-478e-84ee-ab107e551e28",
-            To : 'tim@timgriffith.us',
-            From : 'tim@timgriffith.us',
-            Subject : contactEmail.name,
-            Body : contactEmail.message
-        }).then(
-          message => alert(message)
-        );
-    }
 
     return (
         <div className="column is-three-quarters" id='contact' style={{ margin: 'auto' }}>
