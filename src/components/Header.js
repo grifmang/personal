@@ -18,7 +18,7 @@ const Header = () => {
                         <a style={{ margin: '5px' }} href="https://github.com/grifmang" className="button is-link">Github</a>
                         <a style={{ margin: '5px' }} href="https://www.linkedin.com/in/tim-griffith-730a041a/" className="button is-link">LinkedIn</a>
                         {/* <a href="#" className="button is-link">CodeTrace</a> */}
-                        <a style={{ margin: '5px' }} href="https://drive.google.com/file/d/1URdjdjb6AQgBVHY-wnwDzmZSjmGQv9BT/view?usp=sharing" className="button is-link">
+                        <a style={{ margin: '5px' }} href="https://drive.google.com/file/d/1tT0Pg_NDJ8o9SNkSMh3oP493G1hbEe30/view?usp=sharing" className="button is-link">
                             <span className="icon">
                             <i className="fas fa-file-alt slide"></i>
                             </span>
