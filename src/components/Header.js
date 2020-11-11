@@ -1,9 +1,13 @@
 import React from 'react';
+import MetaTags from 'react-meta-tags';
 
 const Header = () => {
 
     return (
         <section className="hero is-link is-fullheight is-fullheight-with-navbar">
+            <MetaTags>
+            <meta id="og-image" property="og:image" content="%PUBLIC_URL%/port.png" />
+            </MetaTags>
             <div className="hero-body">
                 <div className="is-flex" style={{ flexDirection:'column' }}>
                     <div className="container title is-4">I'm
