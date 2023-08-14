@@ -15,7 +15,7 @@ const Header = () => {
                         Tim Griffith
                         </h1>
                         <h2 className="subtitle is-3">
-                        I'm a Full Stack Web Developer
+                        I'm a Senior Cybersecurity Engineer
                         </h2>
                     </div>
                     <div className="buttons has-addons is-centered">
