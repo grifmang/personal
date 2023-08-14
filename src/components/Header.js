@@ -22,7 +22,7 @@ const Header = () => {
                         <a style={{ margin: '5px' }} href="https://github.com/grifmang" className="button is-link">Github</a>
                         <a style={{ margin: '5px' }} href="https://www.linkedin.com/in/tim-griffith-730a041a/" className="button is-link">LinkedIn</a>
                         {/* <a href="#" className="button is-link">CodeTrace</a> */}
-                        <a style={{ margin: '5px' }} href="https://drive.google.com/file/d/1xOgz_2BXhCu9ecrD4zPVIG8p6a7KnlAS/view?usp=sharing" className="button is-link">
+                        <a style={{ margin: '5px' }} href="https://drive.google.com/file/d/12D70Qp58VK_cdxg6luw7GXFUZax20w7B/view?usp=drive_link" className="button is-link">
                             <span className="icon">
                             <i className="fas fa-file-alt slide"></i>
                             </span>
