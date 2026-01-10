@@ -1,0 +1,6 @@
+[build]
+  command = "corepack enable && yarn install && yarn run build"
+  publish = "build"
+
+[build.environment]
+  YARN_ENABLE_IMMUTABLE_INSTALLS = "false"
