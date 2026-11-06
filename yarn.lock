@@ -5574,11 +5574,9 @@ __metadata:
   linkType: hard
 
 "eventsource@npm:^1.0.7":
-  version: 1.0.7
-  resolution: "eventsource@npm:1.0.7"
-  dependencies:
-    original: "npm:^1.0.0"
-  checksum: 10c0/7565b0d5fe795ef60f528566e11a8bf4e196f600bcf6e91c5b4937efcf969349550ed162004249de328d72ec9c81a6ac60fe28ed59e8775609a7545e0cc7e33f
+  version: 1.1.2
+  resolution: "eventsource@npm:1.1.2"
+  checksum: 10c0/34170eec0962a98b607d2c33d2deaf57d0f1d51324cd4bad7807c6cf3c0545536ee4b2ecf8645236a85fddc59034dec31f0be20b18b75954b3d5b90621c116be
   languageName: node
   linkType: hard
 
@@ -9971,15 +9969,6 @@ __metadata:
     type-check: "npm:~0.3.2"
     word-wrap: "npm:~1.2.3"
   checksum: 10c0/ad7000ea661792b3ec5f8f86aac28895850988926f483b5f308f59f4607dfbe24c05df2d049532ee227c040081f39401a268cf7bbf3301512f74c4d760dc6dd8
-  languageName: node
-  linkType: hard
-
-"original@npm:^1.0.0":
-  version: 1.0.2
-  resolution: "original@npm:1.0.2"
-  dependencies:
-    url-parse: "npm:^1.4.3"
-  checksum: 10c0/af143d5be62b055ffb6fc2a0d08a650b822f48feca4ea21940c1f7a147727a317faedca254394ad0028ddaa4eecf7cf4376c370d746386cc35974e9122ebb14a
   languageName: node
   linkType: hard
 
