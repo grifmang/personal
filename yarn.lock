@@ -13175,11 +13175,11 @@ __metadata:
   linkType: hard
 
 "ssri@npm:^6.0.1":
-  version: 6.0.1
-  resolution: "ssri@npm:6.0.1"
+  version: 6.0.2
+  resolution: "ssri@npm:6.0.2"
   dependencies:
     figgy-pudding: "npm:^3.5.1"
-  checksum: 10c0/9e6c53db8d0017733a8a54210500cf991b4c6990d5c0c5499a6a5482e1bdd8478bbb30d46294b53edaa3ba8d287f6b9403e2abd9501d8e87ac7106b56cd1dc2f
+  checksum: 10c0/e6f18c57dc9fed69343db5c59f95ef334e9664bfbdbad686c190ef2c6ad6b35e9b56cb203f3e4eb7eee6cb7bb602daa26dab6685e3847f0b5c464cdf7d9c2cee
   languageName: node
   linkType: hard
 
