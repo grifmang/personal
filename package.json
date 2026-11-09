@@ -19,6 +19,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "resolutions": {
+    "elliptic": "^6.6.1"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
